@@ -1,0 +1,5 @@
+require("grady.plugins-setup")
+require("grady.core.options")
+require("grady.core.keymaps")
+require("grady.core.colorscheme")
+require("grady.plugins.telescope")
